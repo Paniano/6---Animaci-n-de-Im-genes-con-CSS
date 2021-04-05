@@ -1,1 +1,1 @@
-# 6---Animaci-n-de-Im-genes-con-CSS
+Animación de Imágenes con CSS.
